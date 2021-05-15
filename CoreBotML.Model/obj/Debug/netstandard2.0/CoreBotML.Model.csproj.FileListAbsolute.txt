@@ -1,0 +1,10 @@
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\bin\Debug\netstandard2.0\CoreBotML.Model.deps.json
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\bin\Debug\netstandard2.0\CoreBotML.Model.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\bin\Debug\netstandard2.0\CoreBotML.Model.pdb
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\obj\Debug\netstandard2.0\CoreBotML.Model.csprojAssemblyReference.cache
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\obj\Debug\netstandard2.0\CoreBotML.Model.AssemblyInfoInputs.cache
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\obj\Debug\netstandard2.0\CoreBotML.Model.AssemblyInfo.cs
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\obj\Debug\netstandard2.0\CoreBotML.Model.csproj.CoreCompileInputs.cache
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\obj\Debug\netstandard2.0\CoreBotML.Model.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Bots\CoreBot\CoreBotML.Model\obj\Debug\netstandard2.0\CoreBotML.Model.pdb
